@@ -1,3 +1,4 @@
 void main() {
-  print('hello world');
+  var name = '다트';
+  // 또는 String name = '다트';
 }
