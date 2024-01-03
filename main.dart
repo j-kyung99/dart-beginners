@@ -1,4 +1,7 @@
 void main() {
-  var name = '다트';
-  // 또는 String name = '다트';
+  var name;
+  // 또는 dynamic name; 도 가능
+  name = 'dart';
+  name = 12;
+  name = true;
 }
