@@ -1,7 +1,5 @@
 void main() {
-  var name;
-  // 또는 dynamic name; 도 가능
-  name = 'dart';
-  name = 12;
-  name = true;
+  String? jk = 'jk';
+  // String 일수도, null 일수도 있게 하려면 ?를 붙임
+  jk = null;
 }
