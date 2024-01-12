@@ -1,4 +1,10 @@
 void main() {
-  const max_allowed_price = 120;
-  // const 변수들은 컴파일 때 평가됨
+  String name = 'jk';
+  bool alive = true;
+  int age = 12;
+  double money = 69.99;
+
+  num x = 12;
+  x = 1.1;
+  // num은 정수도 되고, 실수도 됨
 }
